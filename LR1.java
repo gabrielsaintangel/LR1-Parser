@@ -1,6 +1,3 @@
-package edu.ilstu;
-
-import java.io.IOException;
 import java.util.LinkedList;
 
 public class LR1 
